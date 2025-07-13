@@ -52,8 +52,19 @@ We use the collected information to:
 You have the right to:
 - Access your data stored in the app
 - Delete your shopping lists and data
+- **Delete your account completely** - You can delete your account and all associated data through the app settings
 - Opt out of data collection (where applicable)
 - Contact us with privacy concerns
+
+### Account Deletion
+
+To delete your account:
+1. Open the app and go to Settings
+2. Scroll down to the "Delete Account" section
+3. Tap "Delete Account" and confirm your choice
+4. Your account and all personal data will be permanently deleted
+
+**Note:** If you have an active subscription, please cancel it in your app store settings before deleting your account.
 
 ## Data Security
 
@@ -73,8 +84,8 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 ## Contact Us
 
 If you have any questions about this Privacy Policy, please contact us at:
-- Email: [Your Email Address]
-- Website: [Your Website if applicable]
+- Email: syntexapps@gmail.com
+
 
 ## Consent
 
